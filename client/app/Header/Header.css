@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,200;0,400;0,500;0,700;1,100&display=swap');
+.header-container{
+    background-color: #4D66B8;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    color: white;
+    text-shadow: white 3px 0px 5px;
+    border-bottom: 5px solid #47B020;
+}
+.page-container-item {
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.page-container {
+    display: flex;
+    align-items: center;
+}
+.profile-container {
+    display: flex;
+    margin-right: 10px;
+    align-items: center;
+}
+.profile-item {
+    margin: 5px;
+}
+.Steam-profile {
+    border-radius: 100%;
+    width: 80px;
+}
+.profile-item-small {
+    font-weight: 100;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.type-sub {
+    text-shadow: #3B339D 3px 0px 5px;
+    color: #DD93EF;
+}

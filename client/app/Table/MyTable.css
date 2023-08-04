@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+}
+.name {
+    width: 600px;
+}
+.services {
+    display: flex;
+    
+}
+.service {
+    padding-left: 10px;
+}
+.buff {
+    border-radius: 100%;
+}
